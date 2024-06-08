@@ -7,7 +7,7 @@
 </head>
 <body>
 
-<h1>Welcome to the Test Page! Check for WebHook!(This will be 17 build)</h1>
+<h1>Welcome to the Test Page! Check for pollSCM pipeline!(This will be 18 build)</h1>
 
 <button onclick="showMessage()">Click Me!</button>
 
